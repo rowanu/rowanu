@@ -1,5 +1,5 @@
 - 🔭 I wrote [The Practical AWS IAM Guide](awsiamguide.com)
-- 🌱 I’m currently learning [Svelte](https://svelte.dev/)
 - 💬 Ask me about [AWS Identity & Access Manager](https://aws.amazon.com/iam/) and #serverless
 - 📗 I write at [blog.rowanudell.com](https://blog.rowanudell.com/)
 - 📫 Reach me on Twitter at [@elrowan](https://twitter.com/elrowan)
+- 🔌 Connect with me [on LinkedIn](https://www.linkedin.com/in/rowanu/)
